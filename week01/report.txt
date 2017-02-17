@@ -1,0 +1,9 @@
+login to badak
+make 11 folders from week00 to week10 plus 4 additional folders
+make dummy at all folders
+deleting dummy
+make text using nano or vim
+moving text to folders
+pushing and pulling git
+changing between folders
+
